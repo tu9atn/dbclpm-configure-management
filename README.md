@@ -3,8 +3,8 @@
 ### What you'll learn
 #### We'll answer common questions like:
 
-* What is GitHub??????
-* How does one use GitHub?22
+* What is GitHub?
+* How does one use GitHub?
 * What are issues and pull requests?
 * How do you create a branch and a commit?
 * How do you use GitHub Pages?
