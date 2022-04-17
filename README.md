@@ -8,7 +8,7 @@
 * What are issues and pull requests?
 * How do you create a branch and a commit?
 * How do you use GitHub Pages?
-* Test branch now?
+* Test branch now? -> You can edit now :))
 
 #### And when you're done you'll be able to:
 * Communicate in issues
