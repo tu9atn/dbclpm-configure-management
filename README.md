@@ -16,7 +16,6 @@
 * Make commits
 * Introduce changes with pull requests
 * Deploy a web page to GitHub pages
-* How to use git branch with Le Tuan? -> Change file :))
 ---
 > What is github?
 * Về cơ bản, github là một nền tảng cộng tác
