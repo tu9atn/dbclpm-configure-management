@@ -7,7 +7,7 @@
 * How does one use GitHub?
 * What are issues and pull requests?
 * How do you create a branch and a commit?
-* How do you use GitHub Pages?
+* How do you use GitHub Pages? --> retest.
 * Test branch now? -> You can edit now :))
 
 #### And when you're done you'll be able to:
