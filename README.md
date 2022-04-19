@@ -34,3 +34,4 @@
         * Cho phép bạn liên kết đến các vấn đề khác và yêu cầu thay đổi bổ sung tài nguyên.
         * Tạo một bản ghi duy nhât, toàn diện về cách thức và lý do bạn đưa ra các quyết định nhất định.
         * Cho phép bạn dễ dàng gọi đúng người và team vào một cuộc thảo luận bằng @-mentions 
+* Huy test
